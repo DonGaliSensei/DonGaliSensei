@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonGaliSensei
+- 👋 Hi, I’m @gali
 - 👀 I’m interested in data analysis, big data, python & NBA
 - 🌱 I’m currently learning Autocad & SolidWorks
 - 💞️ I’m looking to collaborate on Analysis & Big data
